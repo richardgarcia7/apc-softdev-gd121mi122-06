@@ -9,6 +9,7 @@ body {
     margin: 0 auto -60px;
     padding: 0 0 60px;
 	background-color: #FEF0C9;
+
 }
 
 .wrap > .container {
@@ -43,7 +44,7 @@ a.asc:after, a.desc:after {
     position: relative;
     top: 1px;
     display: inline-block;
-    font-family: 'Glyphicons Halflings';
+    font-family: '';
     font-style: normal;
     font-weight: normal;
     line-height: 1;
