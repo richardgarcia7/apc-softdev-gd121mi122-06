@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 21, 2015 at 07:16 AM
+-- Generation Time: Jul 21, 2015 at 07:18 AM
 -- Server version: 5.6.24
 -- PHP Version: 5.6.8
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `softdev_cruz_keano_ourspace`
+-- Database: `softdev_garcia_richard_joseph_ourspac`
 --
 
 -- --------------------------------------------------------
@@ -33,17 +33,17 @@ CREATE TABLE IF NOT EXISTS `myaddress` (
   `lastname` varchar(30) NOT NULL,
   `gender` varchar(1) NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  `home_address` varchar(50) DEFAULT NULL,
-  `landline` varchar(20) DEFAULT NULL,
-  `cellphone` varchar(20) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+  `home_address` varchar(34) DEFAULT NULL,
+  `landline` varchar(34) DEFAULT NULL,
+  `cellphone` varchar(34) DEFAULT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `myaddress`
 --
 
 INSERT INTO `myaddress` (`id`, `firstname`, `middlename`, `lastname`, `gender`, `created_at`, `home_address`, `landline`, `cellphone`) VALUES
-(1, 'keano', 'mojica', 'adrian', 'm', '2015-07-21 05:14:53', '#1 El Grande', '5010663', '09178579595');
+(1, 'Keano', 'Kyle', 'Cruz', 'M', '2015-07-21 05:15:12', 'Qc', '93199337', '092766451545');
 
 -- --------------------------------------------------------
 
@@ -54,17 +54,17 @@ INSERT INTO `myaddress` (`id`, `firstname`, `middlename`, `lastname`, `gender`, 
 CREATE TABLE IF NOT EXISTS `mycomment` (
   `id` int(11) NOT NULL,
   `myaddress_id` int(11) NOT NULL,
-  `author` varchar(255) NOT NULL,
-  `body` longtext NOT NULL,
+  `author` varchar(55) NOT NULL,
+  `body` varchar(55) NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `mycomment`
 --
 
 INSERT INTO `mycomment` (`id`, `myaddress_id`, `author`, `body`, `created_at`) VALUES
-(1, 1, 'Keano', 'Body of the comment', '2015-07-21 05:15:35');
+(1, 1, 'Kkasga', 'sadg', '2015-07-21 05:16:45');
 
 --
 -- Indexes for dumped tables
@@ -82,6 +82,20 @@ ALTER TABLE `myaddress`
 ALTER TABLE `mycomment`
   ADD PRIMARY KEY (`id`), ADD KEY `mycomment_ibfk_1` (`myaddress_id`);
 
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `myaddress`
+--
+ALTER TABLE `myaddress`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
+--
+-- AUTO_INCREMENT for table `mycomment`
+--
+ALTER TABLE `mycomment`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 --
 -- Constraints for dumped tables
 --
