@@ -22,6 +22,12 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'created_at')->textInput() ?>
 
+    <?= $form->field($model, 'home_address')->textInput(['maxlength' => 34]) ?>
+
+    <?= $form->field($model, 'landline')->textInput(['maxlength' => 34]) ?>
+
+    <?= $form->field($model, 'cellphone')->textInput(['maxlength' => 34]) ?>
+
     <div class="form-group">
         <?= Html::submitButton($model->isNewRecord ? 'Create' : 'Update', ['class' => $model->isNewRecord ? 'btn btn-success' : 'btn btn-primary']) ?>
     </div>
