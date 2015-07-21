@@ -8,6 +8,7 @@ body {
     height: auto;
     margin: 0 auto -60px;
     padding: 0 0 60px;
+	background-color: #add8e6;
 }
 
 .wrap > .container {
@@ -41,7 +42,7 @@ a.asc:after, a.desc:after {
     position: relative;
     top: 1px;
     display: inline-block;
-    font-family: 'Glyphicons Halflings';
+    font-family: 'Arial';
     font-style: normal;
     font-weight: normal;
     line-height: 1;
