@@ -1,0 +1,295 @@
+@charset "utf-8";
+/*------ CSS Document Copyright © 2010 ------*/
+
+/*------ Default HTML Styles ------*/
+body{
+background:#FFFFFF;
+color:#B2D130;
+}
+a{
+color:#DC3E29;
+}
+
+/*------ Layout Styles ------*/
+#topmenu li a,
+#topmenu li span.separator{
+color:#999;
+text-shadow:1px 1px 1px #000;
+}
+#topmenu li a:hover,
+#topmenu li span.separator:hover{
+color:#FFF;
+}
+#wrapper{
+background:#FFF;
+}
+#header{
+background:url(../images/header_bg.png) repeat-x 0 0;
+}
+#logo{
+background:url(../images/logo.png) no-repeat 0 0;
+}
+#mainmenu{
+background:#B6D23B url(../images/gradient_20x20.png) repeat-x 0 0;
+border-top:1px solid #000;
+border-bottom:1px solid #111;
+}
+#mainmenu ul{
+border-left:1px solid #555;
+border-right:1px solid #111;
+}
+#mainmenu ul li a,
+#mainmenu ul li span.separator{
+color:#fff;
+text-shadow:1px 1px 1px #000;
+border-left:1px solid #111;
+border-right:1px solid #555;
+}
+#mainmenu ul li.hover, 
+#mainmenu ul li:hover, 
+#mainmenu ul li.active a,
+#mainmenu ul li.active span.separator{
+background:#758B27 url(../images/gradient_20x20_grn.png) repeat-x 0 0;
+color:#FFF;
+}
+#mainmenu ul li.hover a, 
+#mainmenu ul li:hover a,
+#mainmenu ul li.hover span.separator, 
+#mainmenu ul li:hover span.separator{
+color:#CCC;
+}
+#mainmenu ul li.hover a:hover, 
+#mainmenu ul li:hover a:hover,
+#mainmenu ul li.hover span.separator:hover, 
+#mainmenu ul li:hover span.separator:hover{
+color:#FFF;
+}
+#mainmenu ul ul{
+width: 181px;
+background:#222;
+border:0;
+border-top:1px solid #111;
+}
+#mainmenu ul ul a,
+#mainmenu ul ul span.separator{
+background:#758B27 url(../images/gradient_20x20_grn.png) repeat-x 0 0;
+border-bottom:1px solid #111;
+border-top:1px solid #555;
+}
+#mainmenu ul ul a:hover,
+#mainmenu ul ul span.separator:hover{
+background:#B8320E url(../images/gradient_20x20.png) repeat-x 0 0;
+width: 149px;
+/* background:#101010; */
+}
+#mainmenu ul li a:active,
+#mainmenu ul li span.separator:active{
+background:#000;
+}
+#pathway{
+background:#454545 url(../images/gradient_40x40.png) repeat-x 0 0;
+}
+#pathway a{
+color:#FFF;
+}
+#banner{
+background:#222 url(../images/gradient_40x40.png) repeat-x 0 0;
+}
+.inset-container,
+.pos-container,
+.elements-container,
+#container{
+background:#FFF;
+color:#000;
+}
+.pos-container,
+.elements-container,
+.inset-container,
+#container{
+border-top:1px solid #E0E0E0;
+}
+#search{
+background:#111;
+}
+#footer{
+background:#000;
+}
+#debug{
+background:#FFF;
+color:#000;
+}
+/*------ Content Styles ------*/
+.article_separator{
+border-bottom:1px solid #E0E0E0;
+}
+.inputbox, .validate-email {
+border:1px solid #CCC;
+}
+.inputbox:focus,  .validate-email:focus{
+border:1px solid #EFDA77;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+border-radius:5px;
+}
+.button,
+button, 
+.validate, 
+input.button {
+border:1px solid #454545;
+background:#333;
+color:#FFF;
+}
+.button:hover,
+button:hover, 
+.validate:hover, 
+input.button:hover{
+background:#222;
+}
+.button:focus,
+button:focus, 
+.validate:focus, 
+input.button:focus{
+background:#111;
+}
+.readon,
+.readmore{
+border:1px solid #E0E0E0;
+background:#F8F8F8;
+}
+.readon:hover,
+.readmore:hover{
+background:#EFEFEF;
+}
+.readon:active,
+.readmore:active{
+background:#E0E0E0;
+}
+.blog_more{
+border:1px solid #E0E0E0;
+background:#F8F8F8;
+}
+.pagination span,
+.pagination a{
+border:1px solid #E0E0E0;
+background:#F8F8F8;
+}
+.pagination a:hover{
+background:#EFEFEF;
+}
+.pagination a:active{
+background:#E0E0E0;
+}
+.contenttoc{
+border:1px solid #E0E0E0;
+background:#F8F8F8;
+}
+.contenttoc th{
+border-bottom:1px solid #FFF;
+background:#EEE;
+text-shadow:1px 2px 2px #FFF;
+}
+.contenttoc a{
+border-bottom:1px solid #FFFFFF;
+border-top:1px solid #E0E0E0;
+}
+.contenttoc a:hover{
+background:#EEE;
+}
+.contenttoc a:active, .contenttoc a.active{
+background:#E4E4E4;
+}
+/* Section Table */
+.contentpane li{
+border-bottom:1px solid #E0E0E0;
+}
+.contentpane li:hover{
+background:#F8F8F8;
+}
+/* Category Table */
+.sectiontableheader{
+border-top:1px solid #E0E0E0;
+border-bottom:1px solid #E0E0E0;
+background:#F8F8F8;
+}
+.sectiontableentry0 td, 
+.sectiontableentry1 td,
+.sectiontableentry2 td{
+border-bottom:1px solid #E0E0E0;
+}
+.sectiontableentry0:hover, 
+.sectiontableentry1:hover,
+.sectiontableentry2:hover{
+background:#EEE;
+}
+/* Weblinks Submission Form */
+.key{
+color:#DC3E29;
+}
+/* Search Component */
+.searchintro b{
+color:#DC3E29;
+}
+.highlight{
+background:#DC3E29;
+color:#FFF;
+}
+.searchintro{
+background:#F8F8F8;
+border:1px solid #E0E0E0;
+}
+body.search .contentpaneopen fieldset{
+border-bottom:1px solid #E0E0E0;
+}
+/* Latest News Module */
+ul.latestnews li a{
+background:url(../images/asterisk_orange.png) no-repeat 0 4px;
+}
+/* Popular Module */
+ul.mostread li a{
+background:url(../images/star.png) no-repeat 0 4px;
+}
+/* Section Module */
+ul.sections li a{
+background:url(../images/arrow_right.png) no-repeat 0 4px;
+}
+/* Menu Module */
+.moduletable_menu{}
+.moduletable_menu h3{
+border-bottom:1px solid #FFF;
+}
+.moduletable_menu ul{
+border-bottom:1px solid #E0E0E0;
+}
+.moduletable_menu li a{
+background:url(../images/arrow_right.png) no-repeat 10px 6px;
+border-top:1px solid #E0E0E0;
+border-bottom:1px solid #FFF;
+}
+.moduletable_menu li a:hover{
+background:#F8F8F8 url(../images/arrow_right.png) no-repeat 10px 6px;
+}
+.moduletable_menu li a:active{
+background:#EFEFEF url(../images/arrow_right.png) no-repeat 10px 6px;
+}
+.moduletable_menu li.active a{
+background:#F8F8F8 url(../images/arrow_right.png) no-repeat 10px 6px;
+}
+.moduletable_menu ul ul{
+border:0;
+}
+.moduletable_menu ul ul a, 
+.moduletable_menu ul ul a:hover, 
+.moduletable_menu ul li.active ul a{
+background-image:none;
+}
+/* Login Module */
+#form-login li a{
+background:url(../images/arrow_right.png) no-repeat 0 4px;
+}
+/* Text Banner Module */
+.bannerheader{
+border-bottom:1px solid #E0E0E0;
+}
+.banneritem_text{
+border-bottom:1px solid #E0E0E0;
+}

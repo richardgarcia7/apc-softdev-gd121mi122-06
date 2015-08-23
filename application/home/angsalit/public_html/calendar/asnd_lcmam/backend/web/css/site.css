@@ -1,0 +1,193 @@
+html,
+body {
+    height: 100%;
+    background-color: #F2E0C7;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+    background-color: #FFF;
+    font-family: 'Trebuchet MS';
+    font-color: #000000;
+    font-size: 15px;
+
+}
+
+.wrap > .container {
+    padding: 70px 15px 20px;
+    background-color: #FFFFE6;
+
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+    position:relative; 
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view th {
+    white-space: nowrap;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+.navbar-inverse {
+ background-color: #6D811E;
+}
+
+.navbar-inverse .navbar-text {
+  color: #FFF;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #FFF;
+  font-family: 'Trebuchet MS';
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+
+  color: #FFFFCC;
+  background-color: transparent;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #9ACD32;
+}
+
+.nav-header{
+ color:#75A319;
+
+}
+
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.row-login,.row-signup{
+   
+    margin: 0 auto;
+    position: relative;
+
+}
+
+.col-lg-5-login,.col-lg-5-signup {
+    width: 41.66666667%;
+    position: relative;
+    margin-top: 50px;
+
+    
+  }
+
+.site-about{
+    width: 100%;
+}
+
+.home-header{
+    padding-left: 15px;
+}
+
+.col-lg-4-about {
+    width: 44.33333333%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+  }
+
+.image {
+    display: block;
+
+}
+
+.message_text{
+    display: block;
+    margin-right: 30px;
+    text-align: left;
+    border-style: solid;
+    border-color: #000000;
+
+}
+
+#container, #container2 {
+    font-family: 'Trebuchet MS';
+}
+
+tr:hover {
+    background-color: #E6F5FA;
+}

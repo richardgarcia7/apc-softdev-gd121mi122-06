@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension>
+<extension version="1.7" type="template" client="site" method="upgrade">
+  <name>jp_bloq_j25</name>
+  <version>2.5.0</version>
+  <creationDate>04/03/12</creationDate>
+  <author>JoomlaPraise</author>
+  <authorEmail>support@joomlapraise.com</authorEmail>
+  <authorUrl>http://www.joomlapraise.com</authorUrl>
+  <copyright>Copyright 2010 JoomlaPraise, All rights reserved.</copyright>
+  <description>Bloq 2.5 Joomla! Template</description>
+  <files>
+    <filename>index.php</filename>
+    <filename>index.html</filename>
+    <filename>component.php</filename>
+    <filename>favicon.ico</filename>
+    <filename>templateDetails.xml</filename>
+    <filename>template_preview.png</filename>
+    <filename>template_thumbnail.png</filename>
+    <folder>css</folder>
+    <folder>language</folder>
+    <folder>html</folder>
+    <folder>images</folder>
+  </files>
+  <positions>
+    <position>left</position>
+    <position>right</position>
+    <position>top</position>
+    <position>advert1</position>
+    <position>advert2</position>
+    <position>advert3</position>
+    <position>bottom</position>
+    <position>banner</position>
+    <position>breadcrumb</position>
+    <position>inset</position>
+    <position>user1</position>
+    <position>user2</position>
+    <position>user3</position>
+    <position>user4</position>
+    <position>user5</position>
+    <position>user6</position>
+    <position>user7</position>
+    <position>user8</position>
+    <position>user9</position>
+    <position>user10</position>
+    <position>user11</position>
+    <position>user12</position>
+    <position>user13</position>
+    <position>user14</position>
+    <position>user15</position>
+    <position>user16</position>
+    <position>user17</position>
+    <position>user18</position>
+    <position>user19</position>
+    <position>user20</position>
+    <position>user21</position>
+    <position>user22</position>
+    <position>user23</position>
+    <position>user24</position>
+    <position>user25</position>
+    <position>debug</position>
+    <position>footer</position>
+    <position>social</position>
+    <position>syndicate</position>
+  </positions>
+  <languages folder="language">
+    <language tag="en-GB">en-GB/en-GB.tpl_jp_bloq_2.5.ini</language>
+    <language tag="en-GB">en-GB/en-GB.tpl_jp_bloq_2.5.sys.ini</language>
+  </languages>
+  <config>
+    <fields name="params">
+      <fieldset name="advanced">
+        <field type="spacer" default="Template Theme" />
+        <field name="templateTheme" type="list" default="theme1" label="Template Theme" description="Choose your template theme">
+          <option value="theme1">Theme1</option>
+          <option value="theme2">Theme2</option>
+          <option value="theme3">Theme3</option>
+          <option value="theme4">Theme4</option>
+          <option value="theme5">Theme5</option>
+          <option value="theme3">Theme6</option>
+          <option value="theme4">Theme7</option>
+          <option value="theme5">Theme8</option>
+        </field>
+        <field type="spacer" default="Layout" />
+        <field name="switchSidebar" type="list" default="right" label="Layout" description="Modules must be active in left and right module positions for setting to have an effect.">
+          <option value="both">Left and Right Sidebars</option>
+          <option value="right">Right Sidebars</option>
+          <option value="left">Left Sidebars</option>
+        </field>
+        <field type="spacer" default="Custom Fonts" />
+        <field name="fontFamily" type="list" default="arial" label="Body Font Family" description="Choose your font family">
+          <option value="arial">Arial, Helvetica, sans-serif</option>
+          <option value="times">"Times New Roman", Times, serif</option>
+          <option value="courier">"Courier New", Courier, monospace</option>
+          <option value="georgia">Georgia,"Times New Roman", Times, serif</option>
+          <option value="verdana">Verdana, Arial, Helvetica, sans-serif</option>
+        </field>
+        <field name="headingFontFamily" type="list" default="yanone" label="Heading Font Family" description="Choose your font family">
+          <option value="tahoma">Tahoma, Verdana, sans-serif</option>
+          <option value="arial">Arial, Helvetica, sans-serif</option>
+          <option value="times">"Times New Roman", Times, serif</option>
+          <option value="courier">"Courier New", Courier, monospace</option>
+          <option value="georgia">Georgia,"Times New Roman", Times, serif</option>
+          <option value="verdana">Verdana, Arial, Helvetica, sans-serif</option>
+          <option value="yanone">'Yanone Kaffeesatz', Helvetica, Arial, sans-serif</option>
+        </field>
+        <field type="spacer" default="Custom Colors" />
+        <field name="fontColor" type="text" default="" label="Font Color" description="Type A Hexadecimal Color" />
+        <field name="headingColor" type="text" default="" label="Heading Color" description="Type A Hexadecimal Color" />
+        <field name="linkColor" type="text" default="" label="Link Color" description="Type A Hexadecimal Color" />
+        <field name="linkHoverColor" type="text" default="" label="Link Hover Color" description="Type A Hexadecimal Color" />
+        <field type="spacer" default="Custom Background Colors" />
+        <field name="topMenuColor" type="text" default="" label="Top Menu Color" description="Type A Hexadecimal Color" />
+        <field name="headerColor" type="text" default="" label="Header Color" description="Type A Hexadecimal Color" />
+        <field name="mainMenuColor" type="text" default="" label="Main Menu Color" description="Type A Hexadecimal Color" />
+        <field name="bannerColor" type="text" default="" label="Banner Color" description="Type A Hexadecimal Color" />
+        <field name="pathwayColor" type="text" default="" label="Pathway Color" description="Type A Hexadecimal Color" />
+        <field name="insetColor" type="text" default="" label="Inset Color" description="Type A Hexadecimal Color" />
+        <field name="posColor" type="text" default="" label="Positions Color" description="Type A Hexadecimal Color" />
+        <field name="elementsColor" type="text" default="" label="Elements Color" description="Type A Hexadecimal Color" />
+        <field name="searchColor" type="text" default="" label="Search Background Color" description="Type A Hexadecimal Color" />
+        <field name="footerColor" type="text" default="" label="Footer Background Color" description="Type A Hexadecimal Color" />
+      </fieldset>
+    </fields>
+  </config>
+</extension>

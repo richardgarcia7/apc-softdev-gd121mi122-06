@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_ICAGENDA_SUBMIT_VIEW_DEFAULT_TITLE">
+		<message>COM_ICAGENDA_SUBMIT_VIEW_DEFAULT_DESC</message>
+	</layout>
+
+	<fields id="params" name="params" type="fields" label="params" addfieldpath="/administrator/components/com_icagenda/models/fields">
+
+		<fieldset name="ICAGENDA" label="COM_ICAGENDA_MENU_OPTIONS" addfieldpath="/administrator/components/com_icagenda/add/elements">
+
+			<field type="Title" label="COM_ICAGENDA_LOGO" class="styleblanck" />
+			<!--field type="Title" label="COM_MENUS_VIEW_FIELDSET_LABEL"  class="stylebox lead input-xxlarge"/-->
+
+			<field
+				name="template"
+				type="modal_template"
+				label="COM_ICAGENDA_LBL_TEMPLATE"
+				description="COM_ICAGENDA_DESC_TEMPLATE"
+				size="40"
+				class="inputbox"
+				default="default"
+			/>
+
+			<field name="Title2" type="TitleImg" label="COM_ICAGENDA_FORM_LABEL" class="stylebox lead input-xxlarge"  icimage="iconicagenda16.png"/>
+
+			<field
+				name="submit_imageDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_EVENT_IMAGE_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_EVENT_IMAGE_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_descDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_DESCRIPTION_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_DESCRIPTION_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_metadescDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_METADESCRIPTION_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_METADESCRIPTION_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_venueDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_VENUE_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_VENUE_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_emailDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_EMAIL_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_EMAIL_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_phoneDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_PHONE_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_PHONE_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_websiteDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_WEBSITE_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_WEBSITE_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_fileDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_ATTACHMENT_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_ATTACHMENT_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_gmapDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_GMAP_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_GMAP_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field
+				name="submit_regoptionsDisplay"
+				type="radio"
+				class="btn-group"
+				labelclass="control-label"
+				label="COM_ICAGENDA_SUBMIT_REGISTRATION_OPTIONS_DISPLAY_LABEL"
+				description="COM_ICAGENDA_SUBMIT_REGISTRATION_OPTIONS_DISPLAY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field type="Title" label="COM_ICAGENDA_FOOTER" class="styleblanck input-xxlarge" />
+		</fieldset>
+	</fields>
+
+</metadata>

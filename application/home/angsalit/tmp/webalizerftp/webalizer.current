@@ -1,0 +1,1400 @@
+# Webalizer V2.23-05 Incremental Data - 04/22/2015 02:50:55
+2015 4 22 2 50 55
+9982 9982 3 636 0 0 826481969 2 1 1
+1 3 1856 18 22
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8620 8620 826453969 1 2 1
+1101 1101 28000 2 0 0
+258 258 0 1 0 0
+0 0 0 0 0 0
+3 3 0 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+20 20 28000 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+102 102 0 0
+1032 1032 127841982 0
+239 239 131519782 0
+135 135 163860806 0
+324 324 153205364 0
+125 125 178872665 2
+941 941 70438266 0
+1447 1447 433332 0
+1856 1856 0 0
+1446 1446 281772 0
+1011 1011 0 0
+982 982 0 0
+322 322 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+9982
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r2.mp3
+0 1 7691664 1463744 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r1.mp3
+0 1 7681200 2274099 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/05-15_st_matthias_r1.mp3
+0 1 7356848 1930311 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2-2_presentation_of_the_lord_r2g.mp3
+0 1 7622704 3157799 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r2_yc.mp3
+0 1 7668528 962688 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r1_yb.mp3
+0 1 7649376 2133805 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_6th_day_r1.mp3
+0 1 7732480 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-baptism_of_the_lord_r1p.mp3
+0 1 7597600 950912 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_cross_r1.mp3
+0 1 7636080 1292096 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_midnight_r2g.mp3
+0 2 7616448 2322728 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6_after_epiphany_r1p.mp3
+0 1 7629248 751785 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r2.mp3
+0 1 7687632 1220987 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-24_r2g.mp3
+0 1 7613552 1812148 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_1_r1.mp3
+0 1 7677456 1862912 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r2_ya.mp3
+0 1 7655616 856064 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_5_r1p.mp3
+0 1 7685280 316987 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-8_immaculate_conception_r2.mp3
+0 4 7728560 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r2_ya.mp3
+0 1 7668080 695231 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r2_yb.mp3
+0 1 7650208 1757813 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-19_r1.mp3
+0 1 7716720 2185778 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_2_r1p.mp3
+0 1 7696992 821836 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r2g_yb.mp3
+0 1 7696352 1587285 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r2.mp3
+0 1 7695712 1044320 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/5-31_visitation_BVM_r1.mp3
+0 1 7625872 1202763 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-23_r1p.mp3.mp3
+0 2 7719216 990415 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-holy_family_r1p.mp3
+0 45 7733376 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-18_r1.mp3
+0 1 7609184 1143831 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/05-15_st_matthias_r1p.mp3
+0 1 7356624 918430 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r1_Cris.mp3
+0 1 7669824 1464657 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-8_immaculate_conception_r1p.mp3
+0 1 7618224 877173 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-3_st_lucy_r1.mp3
+0 1 7712944 2205029 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r1_yb.mp3
+0 2 7681408 1188416 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-15_solemnity_assumption_r2g.mp3
+0 1 7633712 2333343 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_cross_r1p.mp3
+0 1 7636560 1018861 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/05-03_sts_philip_and_james_r1p.mp3
+0 1 7356400 550784 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r1.mp3
+0 1 7686320 1567641 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_1_r1p.mp3
+0 1 7700608 905846 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r1_yb.mp3
+0 1 7660192 2247243 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/bulilit.jpg
+0 1 7666320 54407 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-8_immaculate_conception_r2g.mp3
+0 4 80 28000 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_2_r1.mp3
+0 1 7689120 1580432 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_2_r1.mp3
+0 1 7692528 2095358 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_4_r2g.mp3
+0 1 7647504 1032236 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2-2_presentation_of_the_lord_r1p.mp3
+0 1 7621808 735737 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-24_r2g.mp3
+0 2 7720048 2173516 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-16_r1p.mp3
+0 2 7607936 910610 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_day_r1.mp3
+0 2 7614656 1038618 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-27_st_john_r2g.mp3
+0 3 7617328 1233692 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_5_r1p.mp3
+0 1 7702272 863259 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_3_r1.mp3
+0 1 7689536 1536128 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-24_xmas_vigil_r2g.mp3
+0 1 7720256 3118688 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r1p_yc.mp3
+0 1 7650000 1038300 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-6_feast_of_the_transfiguration_r2.mp3
+0 1 7634400 1119758 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_6_r1.mp3
+0 1 7694400 1742600 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_5_r1p.mp3
+0 1 7679952 780876 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-24_r1p.mp3
+0 1 7719632 962829 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-28_holy_innocents_r2g.mp3
+0 1 7617776 1594809 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-25_conversion_of_paul_r2g.mp3
+0 2 7358192 772683 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_2_r1.mp3
+0 3 7651872 2308160 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-solemnity_of_epiphany_r2.mp3
+0 1 7707808 1331077 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-12_our_lady_of_guadalupe_r1p.mp3
+0 1 7713888 710659 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r2g_yc.mp3
+0 1 7651248 1377920 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/Don_Bosco.docx
+0 1 7669408 15542 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-24_feast_bartholomew_r2g.mp3
+0 1 7633936 1731733 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_2_r1p.mp3
+0 1 7701232 704768 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_1_r1p.mp3
+0 1 7671520 1196480 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-6_feast_transfiguration_lord_r2.mp3
+0 1 7635120 1617536 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/holy_trinity_r1_yb.mp3
+0 121 7735584 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r2_ya.mp3
+0 1 7643120 1018112 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r1_ya.mp3
+0 1 7641632 1289281 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r1.mp3
+0 1 7694192 1146757 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r2_yc.mp3
+0 1 7676800 1575835 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_6_r1p.mp3
+0 1 7648336 707899 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_5_r1.mp3
+0 1 7647920 1480288 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-17_r1p.mp3
+0 1 7608768 946972 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_6_r2g.mp3
+0 1 7665696 1038750 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_6_r1.mp3
+0 1 7690368 2012184 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-9_dedication_lateran_basilica_r2.mp3
+0 1 7713408 1197305 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r1p_ya.mp3
+0 1 7659984 936636 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-21_feast_of_st_matthew_apostle_r2g.mp3
+0 1 7638000 997379 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r2g_yb.mp3
+0 1 7656448 1973898 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r2g_ya.mp3
+0 1 7643760 1298894 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/10-28_feast_of_sts_simon_and_jude_apostles_r1.mp3
+0 1 7600928 735903 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/10-18_feast_of_st_luke_evangelist_r1.mp3
+0 2 7600240 1645760 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_5_r1p.mp3
+0 1 7698880 886784 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3-25_annunciation_of_lord_r1.mp3
+0 1 7623616 904568 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r1p.mp3
+0 1 7694832 1000889 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_2_r2g.mp3
+0 1 7672352 1543400 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-15_feast_of_the_assumption_r2.mp3
+0 1 7632144 375480 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-30_feast_st._andrew_apostle_r2g.mp3
+0 1 7604944 928164 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-1_solemnity_of_all_saints_r1.mp3
+0 1 7602128 2250839 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-14_st_john_of_the_cross_r1.mp3
+0 1 7714592 2713937 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_4_r1.mp3
+0 1 7664240 1729280 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r2_yc.mp3
+0 1 7650624 1013312 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-holy_family_r1p.mp3
+0 1 7619120 791491 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-30_feast_st._andrew_apostle_r1p.mp3
+0 1 7604704 841472 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r2_yb.mp3
+0 1 7682944 875753 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_0_r2_yb.mp3
+0 1 7699952 1163727 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r2_yc.mp3
+0 1 7695920 1190939 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_2_r1p.mp3
+0 1 7692320 889128 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_4_r1.mp3
+0 1 7693360 3062681 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-29_feast_of_archangels_r1.mp3
+0 1 7639152 1172670 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_2_r1.mp3
+0 1 7701024 2065280 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3_after_epiphany_r1p.mp3
+0 1 7624528 955904 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-9_dedication_lateran_basilica_r1p.mp3
+0 1 7713648 1155091 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_10-28_feast_of_sts_simon_and_jude_apostles_r1p.mp3
+0 1 7709584 798989 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-sto_nino_r2g.mp3
+0 1 7708656 1364765 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_4_r2g.mp3
+0 1 7652912 986260 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-2_commemoration_of_faithful_departed_r2g.mp3
+0 1 7604224 2559877 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_05-01_St_Joseph_the_Worker_r1.mp3
+0 1 7704192 2021312 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-29_sts_peter_and_paul_r2g.mp3
+0 1 7628800 1620416 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r2_yc.mp3
+0 1 7691872 1319208 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-1_solemnity_of_all_saints_r2g.mp3
+0 1 7603040 1429297 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r1_yc.mp3
+0 1 7642080 627067 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r1p.mp3
+0 1 7670032 724736 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-10_feast_of_saint_lawrence_r2g.mp3
+0 1 7631024 984630 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r1_yb.mp3
+0 1 7642288 1477473 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r1p_yc.mp3
+0 1 7695264 778415 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_6_r1p.mp3
+0 1 7680784 795550 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-9_dedication_lateran_basilica_r1.mp3
+0 2 7605184 1504112 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-sto_nino_r2.mp3
+0 1 7708448 2098007 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r2_yb.mp3
+0 2 7676576 1174176 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-15_solemnity_assumption_r1p.mp3
+0 1 7632592 587072 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_6-24_nativity_st_john_baPdist_r2.mp3
+0 1 0 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r1p_yc.mp3
+0 1 7675920 1046698 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_adv_w3_4_r1p.mp3
+0 3 7729472 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-10_st_lawrence_r1p.mp3
+0 1 7631696 1230080 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_the_holy_cross_r2g.mp3
+0 1 7637280 840810 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_1_r1p.mp3
+0 1 7651456 863798 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-23_r1.mp3
+0 1 7718800 1771580 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-solemnity_of_epiphany_r2g.mp3
+0 1 7599392 2829460 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-1_solemnity_of_all_saints_r1.mp3
+0 1 7709824 2723692 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r2g_yb.mp3
+0 1 7643968 941957 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_midnight_r2.mp3
+0 1 7721824 1048511 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/04-25_st_mark_r1.mp3
+0 1 7371968 1589627 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_4_r1p.mp3
+0 1 7658944 1103170 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_0_r1_yb.mp3
+0 1 7700176 1598269 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r2.mp3
+0 1 7682736 1051904 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-6_feast_transfiguration_lord_r1p.mp3
+0 1 7634880 705728 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-20_r2g.mp3
+0 1 7717552 2744448 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_6_r1p.mp3
+0 1 7659360 1025966 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r1_yc.mp3
+0 1 7675488 1086822 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-21_r1p.mp3
+0 1 7717968 1007969 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r2.mp3
+0 1 7668752 3826963 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_05-03_sts_philip_and_james_r1p.mp3
+0 1 7704416 712064 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-26_st_stephen_r1p.mp3
+0 1 7616672 683492 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-28_holy_innocents_r1p.mp3
+0 1 7723168 998356 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r2_yc.mp3
+0 1 7683168 1015351 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-24_xmas_vigil_r1.mp3
+0 2 7613760 1409024 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-24_feast_bartholomew_r1p.mp3
+0 1 7633488 864737 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/4_after_epiphany_r2g.mp3
+0 1 7625648 1543400 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-holy_family_r2.mp3
+0 1 7619344 1711837 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_2_r1.mp3
+0 1 7684240 1925248 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_6_r1.mp3
+0 1 7680368 1406188 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-baptism_of_the_lord_r1.mp3
+0 1 7597136 1300352 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-8_feast_of_the_nativity_of_the_bvm_r2g.mp3
+0 1 7641840 1634515 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_6_r1p.mp3
+0 1 7699520 812223 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r1_ya.mp3
+0 1 7648960 1942589 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_4_r2g.mp3
+0 2 7679744 1129865 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/05-03_sts_philip_and_james_r1.mp3
+0 1 7372400 1365248 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-22_r2g.mp3
+0 1 7719008 1821343 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-1_solemnity_mother_of_god_r1.mp3
+0 1 7705088 809045 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-29_sts_peter_and_paul_r1p.mp3
+0 1 7628352 1089748 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_1_r2g.mp3
+0 1 7657280 1372037 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r2g_ya.mp3
+0 1 7656240 1910202 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_5_r1.mp3
+0 1 7693568 2031411 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_1_r1.mp3
+0 1 7644384 1091586 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_2-2_presentation_of_the_lord_r1.mp3
+0 5 7734496 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_6_r1.mp3
+0 1 7685696 2463104 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-28_holy_innocents_r1.mp3
+0 1 7723392 2322869 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/4_after_epiphany_r1.mp3
+0 1 7624976 1440704 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_6_r1.mp3
+0 1 7702688 1869248 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-26_saints_timothy_and_titus_r1p.mp3
+0 1 7358720 878372 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-15_feast_of_assumption_r1p.mp3
+0 1 7631920 649971 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-solemnity_of_epiphany_r1p.mp3
+0 1 7599168 1173924 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_6_r1p.mp3
+0 1 7693984 555307 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_4_r1p.mp3
+0 1 7698240 845660 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_4_r1p.mp3
+0 1 7702064 1455104 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_midnight_r1.mp3
+0 1 7615552 1487393 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-29_sts_peter_and_paul_r2.mp3
+0 1 7628576 1195110 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_2_r2g.mp3
+0 1 7697200 1131544 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-21_feast_of_st_matthew_apostle_r1p.mp3
+0 1 7637760 495576 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-26_saints_timothy_and_titus_r1.mp3
+0 1 7358416 1616488 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/04-25_st_mark_r1p.mp3
+0 1 0 897487 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-2_commemoration_of_faithful_departed_r1p.mp3
+0 1 7603504 1012174 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-1_solemnity_of_all_saints_r1_charisse.mp3
+0 1 7602352 2268800 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_1_r2g.mp3
+0 1 7696784 1141157 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_xmas_weekday_5_r1.mp3
+0 6 7736032 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-8_immaculate_conception_r1p.mp3
+0 2572 7723840 392452 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r1_yb.mp3
+0 1 7654368 1208031 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r1_yb.mp3
+0 1 7686752 881984 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-solemnity_of_epiphany_r1.mp3
+0 1 7598720 1020800 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_6_r1p.mp3
+0 1 7685904 918272 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_adv_w4_0_r1_ya.mp3
+0 13 7729888 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-22_r1p.mp3
+0 2 7612096 1032654 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_2_r1p.mp3
+0 1 7678288 533504 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r1_ya.mp3
+0 1 7666736 1362675 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_5_r2g.mp3
+0 2 7680576 2379979 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_04-25_st_mark_r1p
+0 1 7703536 1119801 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r1p_yc.mp3
+0 1 7667856 857216 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_6_r2g.mp3
+0 1 7654160 851259 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r1_yb.mp3
+0 1 7694608 1280620 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-holy_family_r2g.mp3
+0 180 7733824 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-1_solemnity_mother_of_god_r2g.mp3
+0 1 7357744 981497 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_2_r1p.mp3
+0 1 7645840 1277039 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r1p_ya.mp3
+0 1 7654992 763328 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_2_r1_y2.mp3
+0 1 7645632 2232128 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_1_r1.mp3
+0 1 7683616 1534592 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/201107_Assignments.doc
+0 1 7622256 29184 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-24_r1.mp3
+0 1 7719840 2573644 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r1p_yb.mp3
+0 2 7695488 891500 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_6th_day_r2g.mp3
+0 96 7732256 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_6_r1.mp3
+0 3 7674224 1877888 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-29_sts_peter_and_paul_r1.mp3
+0 1 7628128 2461908 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_midnight_r1p.mp3
+0 1 7615776 946136 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3_after_epiphany_r1.mp3
+0 1 7624752 901414 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_5_r1.mp3
+0 1 7702480 1820388 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-24_feast_st_bartholomew_apostle_r1.mp3
+0 1 7634160 1224079 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-22_r1.mp3
+0 1 7718592 1284658 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-sto_nino_r1.mp3
+0 1 7599616 1670528 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-30_feast_st._andrew_apostle_r1.mp3
+0 1 7712464 2305591 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-8_immaculate_conception_r2g.mp3
+0 1 7618896 2234286 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1_after_epiphany_r2g.mp3
+0 1 7620912 1769350 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r2g_yb.mp3
+0 1 7692096 1587119 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/dailyrdgs.html
+0 1 7669200 212684 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_the_holy_cross_r2.mp3
+0 1 7637520 965362 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-22_r2g.mp3
+0 1 7612304 1377304 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_5_r1.mp3
+0 1 7685488 3142811 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-26_st_stephen_r1.mp3
+0 1 7722048 2234538 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_midnight_r1p.mp3
+0 1 7721376 1199394 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2-22_chair_of_st_peter_r1p.mp3
+0 1 7621136 1115239 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_weekday_5_r1p.mp3
+0 50 7731136 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ascension_of_lord_r2.mp3
+0 1 7662752 1408672 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-2_commemoration_of_faithful_departed_r1p.mp3
+0 1 7710544 1665419 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-1_solemnity_mother_of_god_r2.mp3
+0 1 7357520 828032 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-21_r1p_2.mp3
+0 1 7611472 918848 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_midnight_r2g.mp3
+0 1 7722272 2703237 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_3_r2g.mp3
+0 1 7663824 1641454 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-24_xmas_vigil_r2.mp3
+0 1 7614208 1363929 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-14_st_john_of_the_cross_r1p.mp3
+0 1 7607280 984170 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_5th_day_r2g.mp3
+0 38 7732928 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-17_r2g.mp3
+0 1 7716304 3106149 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-baptism_of_the_lord_r2g.mp3
+0 1 7598496 1139731 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-24_feast_st_bartholomew_apostle_r1p.mp3
+0 1 7634640 814897 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-25_conversion_of_paul_r1p.mp3
+0 1 7357968 349290 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-23_r1.mp3
+0 1 7612512 1437908 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ascension_of_lord_r1.wbm
+0 1 7662080 51 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_3_r1p.mp3
+0 1 7658112 713216 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-17_r1.mp3
+0 1 7715888 1200230 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-8_feast_of_the_nativity_of_the_bvm_r1.mp3
+0 1 7640720 915459 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-19_r2g.mp3
+0 1 7610432 3622329 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/05-01_St_Joseph_the_Worker_r1p.mp3
+0 1 7356176 1181281 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_3_r1p.mp3
+0 1 7672560 908354 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_5_r1p.mp3
+0 1 7664656 1017344 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-1_solemnity_of_all_saints_r2.mp3
+0 1 7710304 1283822 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_4_r1.mp3
+0 1 7689744 1401964 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_5_r1.mp3
+0 1 7665072 2395136 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/7-25_feast_st_james_r1_.mp3
+0 1 7629696 1774370 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-25_conversion_of_paul_r1.mp3
+0 1 7706464 3619378 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_5_r1p.mp3
+0 1 7673808 742140 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r2g_yb.mp3
+0 1 7670896 1628079 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r1p_ya.mp3
+0 1 7642704 1228677 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-12_our_lady_of_guadalupe_r2g.mp3
+0 1 7714352 2545500 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r1p_yb.mp3
+0 2 7681856 806528 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-28_holy_innocents_r1p.mp3
+0 1 7617552 699540 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_midnight_r2.mp3
+0 1 7616000 844572 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_2_r1p_y2.mp3
+0 1 7646048 1355456 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-sto_nino_r2.mp3
+0 1 7600032 1430133 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_3_r1.mp3
+0 1 7692944 1542817 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1_after_epiphany_r1.mp3
+0 100 7734048 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_5_r1p_y2.mp3
+0 1 7699296 800520 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-24_xmas_vigil_r1p.mp3
+0 2 7613984 926326 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_4_r2g.mp3
+0 1 7673600 1848928 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r1_yc.mp3
+0 2 7686528 2328161 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_2_r1.mp3
+0 1 7671936 1324160 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r1_yb.mp3
+0 1 7675264 817230 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/5-31_visitation_BVM_r1_2.mp3
+0 1 7626320 1186881 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-14_st_john_of_the_cross_r2g.mp3
+0 1 7607504 1731481 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_day_r1p.mp3
+0 1 7614880 1070688 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-8_immaculate_conception_r2.mp3
+0 1 7618448 1146757 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-27_st_john_r1.mp3
+0 1 7722720 1150911 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_3_r1p.mp3
+0 1 7684448 796160 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-21_r2g.mp3
+0 1 7718176 1257516 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_2_after_epiphany_r1.mp3
+0 6 7730096 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-30_feast_st_andrew_apostle_r2g.mp3
+0 1 7712704 1142456 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-2_commeration_of_faithful_departed_r1p.mp3
+0 1 7711264 1665419 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_1_r1.mp3
+0 1 7688704 2882375 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_1_r1.mp3
+0 1 7657072 1991034 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r2g_yb.mp3
+0 1 7651040 1529189 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r1p.mp3
+0 1 7687200 1082809 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r2_yb.mp3
+0 1 7655824 1239800 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_6-29_sts_peter_and_paul_r1.mp3
+0 1 7729248 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r2g_yb.mp3
+0 1 7677024 2667962 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_3_r2g.mp3
+0 1 7673184 3547932 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-21_r2g.mp3
+0 2 7611888 1136142 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_5_r1.mp3
+0 1 7653120 691181 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-8_feast_of_nativity_of_bvm_r2g.mp3
+0 1 7641200 1633679 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3-19_solemnity_joseph_husband_mary_r1p.mp3
+0 1 7623840 953984 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r2g.mp3
+0 1 7677248 2764259 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_1_r1p.mp3
+0 1 7644800 1096601 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r1.mp3
+0 1 7690576 1635351 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-24_nativity_st_john_baptist_r1p.mp3
+0 1 7627440 903383 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_3_r1.mp3
+0 1 7663200 1607744 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r1_yc.mp3
+0 1 7667184 593213 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_5_r1.mp3
+0 1 7698672 1912064 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_6th_day_r1p.mp3
+0 96 7732032 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-21_feast_of_st_matthew_apostle_r1.mp3
+0 1 7638240 1395860 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_day_r2g.mp3
+0 1 7720928 1807384 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_2_r2g.mp3
+0 1 7652288 881352 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-8_feast_of_nativity_of_bvm_r1p.mp3
+0 1 7640496 289774 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_3_r1p.mp3
+0 1 7689328 867394 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-19_r2g.mp3
+0 1 7717136 3737102 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r2_yb.mp3
+0 1 7660816 819077 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_1_r1.mp3
+0 1 7651664 2137320 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_1_r1.mp3
+0 1 7696144 1224915 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_weekday_6_r1p.mp3
+0 18 7730464 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-12_our_lady_of_guadalupe_r2g_ya.mp3
+0 1 7606592 646711 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_2_r1p.mp3
+0 1 7657696 1172504 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-sto_nino_r1.mp3
+0 1 7708240 1877324 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_5_r1.mp3
+0 1 7689952 1593389 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_2_r1p.mp3
+0 1 7684032 767502 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_2_r2g.mp3
+0 1 7657904 1303909 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-1_solemnity_of_all_saints_r1p.mp3
+0 1 7602592 958675 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_4_r1.mp3
+0 2 7679536 1401964 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6_after_epiphany_r1.mp3
+0 1 7629024 1576001 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2_after_epiphany_r1p.mp3
+0 1 7622928 885114 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_0_r2g.mp3
+0 1 7700400 2222336 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-21_r1.mp3
+0 1 7717760 1522477 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_day_r2.mp3
+0 1 7721152 1676704 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-20_r1.mp3
+0 1 7610016 1076621 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2-22_chair_of_st_peter_r1.mp3
+0 1 7620688 841883 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-24_nativity_st_john_baptist_r2.mp3
+0 1 7627904 3512077 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_1_r1p.mp3
+0 1 7677664 1291136 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3-19_solemnity_joseph_husband_mary_r1.mp3
+0 1 7623376 817657 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r1p-yb.mp3
+0 1 7686976 1112960 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_cross_r2.mp3
+0 1 7636320 965362 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-17_r2g.mp3
+0 1 7609392 3105731 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-9_dedication_lateran_basilica_r2g.mp3
+0 1 7606128 1466913 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_day_r2.mp3
+0 1 7615104 1371372 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r2g_yc.mp3
+0 1 7644176 1492544 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-26_st_stephen_r1.mp3
+0 2 7616224 1361792 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_6_r1.mp3
+0 1 7659568 1143413 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-20_r1p.mp3
+0 1 7610224 987037 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-8_feast_of_nativity_of_bvm_r1.mp3
+0 1 7640272 918385 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_adv_w4_0_r1_yb.mp3
+0 13 7730256 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_1_r2g.mp3
+0 1 7645216 1397114 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-29_feast_of_the_archangels_r1p.mp3
+0 1 7639824 874247 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-18_r2g.mp3
+0 1 7716096 2226763 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r1_ya.mp3
+0 1 7654576 1646218 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-baptism_of_the_lord_r1.mp3
+0 1 7706688 1743577 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/5_after_epiphany_r2g.mp3
+0 2 7626992 1375563 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-1_solemnity_of_all_saints_r1p.mp3
+0 1 7710064 1265850 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_0_r1p_yb.mp3
+0 1 7699728 909891 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_2_r1p.mp3
+0 1 7688912 987766 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-16_vigil_r2g.mp3
+0 1 7608352 821000 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r2.mp3
+0 1 7670464 675548 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-1_solemnity_mother_of_god_r2.mp3
+0 1 7705552 882606 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-24_xmas_vigil_r2g.mp3
+0 2 7614432 1337792 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-20_r1p.mp3
+0 1 7717344 1089889 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-16_r1.mp3
+0 1 7714816 2897145 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-11_st_barnabas_r1.mp3
+0 1 7627216 1698176 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-27_st_john_r1.mp3
+0 2 7616896 951822 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r2g_ya.mp3
+0 1 7668976 1847936 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r2g_yc.mp3
+0 1 7661440 1153856 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_05-01_St_Joseph_the_Worker_r1p.mp3
+0 1 7703968 1463168 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-1_solemnity_of_all_saints_r2.mp3
+0 1 7602816 886202 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_4_r1.mp3
+0 1 7685072 3189157 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_2_r1.mp3
+0 1 7657488 1664071 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_1_r1p.mp3
+0 1 7688496 837864 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_1_r1p_y2.mp3
+0 1 7645008 1086404 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-6_feast_transfiguration_lord_r1.mp3
+0 1 7635360 1241408 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/testCalendar.php
+0 3 7728400 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_3_r2.mp3
+0 1 7663616 1193600 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-27_st_john_r1p.mp3
+0 2 7617104 840226 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_3_r1.mp3
+0 1 7646464 1264621 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r1p_yb.mp3
+0 1 7655200 916713 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_5_r2g.mp3
+0 1 7674432 2401052 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r2g_ya.mp3
+0 1 7650832 2006081 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_3_r1p.mp3
+0 1 7663408 1022205 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_6_r2g.mp3
+0 1 7680992 1078860 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r1_yc.mp3
+0 1 7681632 1652672 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-23_r1p.mp3
+0 1 7612720 858617 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-20_r1.mp3
+0 2 7716928 1011769 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ascension_of_lord_r1.mp3
+0 1 7661856 2329472 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_2_r1.mp3
+0 1 7645424 2149322 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-16_r1p.MP3
+0 1 7715024 1543375 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-14_st_john_of_the_cross_r1.mp3
+0 1 7607056 1384157 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r2_yb.mp3
+0 1 7687840 559403 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-19_r1p.mp3
+0 1 7716512 1136283 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-16_vigil_r1p.mp3
+0 1 7608144 777699 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-29_feast_of_archangels_r1p.mp3
+0 1 7639376 873411 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-8_immaculate_conception_r1.mp3
+0 1 7618000 1488267 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/5_after_epiphany_r1.mp3
+0 1 7626768 1658173 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r2g_yb.mp3
+0 1 7688272 1630169 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-holy_family_r1.mp3
+0 42 7733152 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-30_feast_st_andrew_apostle_r1.mp3
+0 1 7712224 2305591 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-holy_family_r2g.mp3
+0 2 7619568 1774531 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_3_r1.mp3
+0 1 7684656 1359488 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-24_feast_bartholomew_r1.mp3
+0 1 7633264 1253170 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_4_r1.mp3
+0 1 7701856 2073152 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r1.mp3
+0 1 7675056 1168640 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_3_r1.mp3
+0 1 7701648 2202752 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-2_commemoration_of_faithful_departed_r2.mp3
+0 1 7603744 1321472 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_4_r1p.mp3
+0 1 7652704 879104 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_5_r1p.mp3
+0 1 7693776 837704 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r1_ya.mp3
+0 1 7659776 970073 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_6_r1p.mp3
+0 1 7665280 990584 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-24_r1.mp3
+0 1 7613136 2020404 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1_after_epiphany_r1.mp3
+0 1 7620240 1903232 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/5_after_epiphany_r1p.mp3
+0 1 7626544 865664 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_7th_day_r2g.mp3
+0 4 7731584 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_1_r1.mp3
+0 1 7671312 2320832 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r1p_yb.mp3
+0 1 7660400 1257516 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-21_r1_2.mp3
+0 2 7611056 1121140 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-holy_family_r2.mp3
+0 87 7733600 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_3.html
+0 1 7641424 11695 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_7th_day_r1p.mp3
+0 1 7731360 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r1_yc.mp3
+0 2 7654784 921311 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-21_feast_of_st_matthew_r1p.mp3
+0 1 7638704 494740 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r1_yb.mp3
+0 1 7690784 1351424 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6-24_nativity_st_john_baptist_r1.mp3
+0 1 7627680 1560833 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_3_r1p.mp3
+0 1 7646880 1142995 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_6_r1p.mp3
+0 1 7702896 1210304 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_5_r1p.mp3
+0 1 7690160 919639 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_3_r1p.mp3
+0 2 7692736 732378 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-baptism_of_the_lord_r1_v2.mp3
+0 2 7598048 1978329 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_1_r2g.mp3
+0 2 7652080 2195834 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_3_r1.mp3
+0 1 7678704 1621247 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-15_solemnity_assumption_r2.mp3
+0 1 7632816 1056512 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_3_r1p.mp3
+0 1 7678912 1174031 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r2A.mp3
+0 1 7688064 1101451 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-22_r1.mp3
+0 3 7611680 830230 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_4_r2g.mp3
+0 1 7664448 910855 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_2_r2g.mp3
+0 1 7646256 1323387 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2-22_chair_of_st_peter_r2g.mp3
+0 1 7621360 1337598 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-17_r1.mp3
+0 1 7608976 973303 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12_25_xmas_vigil_r2g.mp3
+0 3 7620016 3117852 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-baptism_of_the_lord_r1p.mp3
+0 1 7706912 1306392 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_05-15_st_matthias_r1p.mp3
+0 1 7704864 2684342 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r2g_ya.mp3
+0 1 7661232 1668370 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-sto_nino_r2g.mp3
+0 2 7600480 1308545 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-10_feast_of_saint_lawrence_r1.mp3
+0 1 7630576 1131752 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-8_immaculate_conception_r1.mp3
+0 5389 7723616 756272 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-solemnity_of_epiphany_r1.mp3
+0 1 7707584 1928592 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r2.mp3
+0 1 7676368 1313819 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_6_r1.mp3
+0 1 7653536 1259677 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r1_yc.mp3
+0 1 7649168 1627205 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r2_yc.mp3
+0 1 7661024 1340560 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3-25_annunciation_of_lord_r1p.mp3
+0 1 7624080 979904 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-16_vigil_r1.mp3
+0 1 7715456 1904074 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-30_feast_st._andrew_apostle_r1_v2.mp3
+0 1 7604464 2045668 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_3_r2g.mp3
+0 1 7658528 1204853 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/August_12_R2.wav
+0 1 7665904 2294546 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r2g.mp3
+0 1 7671104 1811312 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_5_r1.mp3
+0 1 7680160 1890976 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_4_r1p.mp3
+0 1 7679328 964352 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_4_r1.mp3
+0 1 7697824 1569565 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r1p_yc.mp3
+0 1 7682288 1221248 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r2g_yb.mp3
+0 1 7661648 1824268 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-16_r1.mp3
+0 1 7607728 2294472 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-solemnity_of_epiphany_r2.mp3
+0 1 7598944 791491 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-16_vigil_r2g.mp3
+0 1 7715664 930506 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_6_r1p.mp3
+0 1 7674640 1068800 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-2_commeration_of_faithful_departed_r1.mp3
+0 1 7711504 2054121 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-21_feast_of_st_matthew_r2g.mp3
+0 1 7638928 1024128 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-25_conversion_of_paul_r1p.mp3
+0 1 7706240 515613 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-20_r2g.mp3
+0 1 7610640 2218822 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_2_after_epiphany_r1p.mp3
+0 6 7735216 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w4_0_r2_ya.mp3
+0 1 7660608 1187717 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w4_0_r1p_yc.mp3
+0 1 7687408 642950 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_6_r1.mp3
+0 1 7665488 1836992 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-sto_nino_r1p.mp3
+0 1 7708032 1205160 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_4_r1p.mp3
+0 1 7693152 674463 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r1p_Cris.mp3
+0 1 7670240 724581 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2-2_presentation_of_the_lord_r1.mp3
+0 1 7621584 1099779 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r1p_yb.mp3
+0 1 7642496 882717 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-25_conversion_of_paul_r1.mp3
+0 1 7358640 2755481 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_4_after_epiphany_r1p.mp3
+0 1 7728784 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/10-28_feast_of_sts_simon_and_jude_apostles_r2g.mp3
+0 1 7601408 960765 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_4_r1p.mp3
+0 1 7647296 1051462 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-1_solemnity_mother_of_god_r1p.mp3
+0 1 7705312 898071 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_adv_w3_4_r1.mp3
+0 3 7729680 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-9_dedication_lateran_basilica_r1p.mp3
+0 2 7605424 863380 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_1_r1.mp3
+0 1 7700816 1400710 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-18_r2g.mp3
+0 1 7609808 1814655 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_10-18_feast_of_st_luke_evangelist_r1p.mp3
+0 1 7709104 937752 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-12_our_lady_of_guadalupe_r1_2.mp3
+0 1 7606832 932430 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r2_errol.mp3
+0 1 7670672 630038 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/7-3_st_thomas_r1.mp3
+0 1 7630144 963200 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r2_yb.mp3
+0 1 7668304 1531936 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-holy_family_r1.mp3
+0 2 7618672 1363259 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r2_yb.mp3
+0 1 7691440 1113853 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/4_after_epiphany_r1p.mp3
+0 1 7625424 974144 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-8_feast_of_the_nativity_of_the_bvm_r1p.mp3
+0 1 7640960 290610 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/10-28_feast_of_sts_simon_and_jude_apostles_r1p.mp3
+0 1 7601168 476768 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2_after_epiphany_r1.mp3
+0 1 7622480 879263 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/10-2_memorial_of_guardian_angels_r1.mp3
+0 1 7601648 1137979 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_6_r2g.mp3
+0 1 7674848 1090750 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_4_r1.mp3
+0 1 7672976 2874752 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-12_our_lady_of_guadalupe_r1p.mp3
+0 1 7606368 404461 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_cross_r2g.mp3
+0 2 7635600 841646 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_3_r2g.mp3
+0 1 7679120 1340517 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-15_feast_of_assumption_r1.mp3
+0 1 7632368 1591215 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_5_r2g.mp3
+0 1 7664864 665095 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_2_r1.mp3
+0 1 7697408 2048546 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/7-25_feast_st_james_r1p.mp3
+0 1 7629920 1124010 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_1_r2g.mp3
+0 1 7678080 1861710 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r1p_ya.mp3
+0 1 7649584 1136308 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_4_r1p.mp3
+0 1 7684864 706897 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-9_dedication_lateran_basilica_r1.mp3
+0 1 7713168 2173239 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-1_solemnity_mother_of_god_r1p.mp3
+0 1 7357296 643534 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_5_r2g.mp3
+0 1 7653744 1014681 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1_after_epiphany_r1p.mp3
+0 6 7734272 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/holy_trinity_r1_ya.mp3
+0 119 7735808 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r1p_ya.mp3
+0 1 7667632 819746 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_4_r1.mp3
+0 1 7658736 2477838 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r1p_yb.mp3
+0 1 7649792 1112287 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-29_feast_of_archangels_r2g.mp3
+0 1 7639600 1022457 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_1_r1_y2.mp3
+0 1 7644592 1302489 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r1_yb.mp3
+0 1 7666960 1477760 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_0_r2_ya.mp3
+0 1 7650416 1288445 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-26_saints_timothy_and_titus_r2g.mp3
+0 1 7597360 1458554 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_6_r1.mp3
+0 1 7648544 1665026 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-12_our_lady_of_guadalupe_r1.mp3
+0 1 7605904 835377 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/7-3_st_thomas_r1p.mp3
+0 1 7630352 462080 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-29_feast_of_the_archangels_r1.mp3
+0 1 7640048 1173506 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r1p_yc.mp3
+0 1 7655408 913664 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-27_st_john_r1p.mp3
+0 1 7722944 1284658 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-23_r2g.mp3
+0 1 7612928 1911622 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-solemnity_of_epiphany_r1p.mp3
+0 1 7707360 1820341 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r1p.mp3
+0 1 7675712 1023872 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_4_r1p.mp3
+0 1 7673392 907136 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_4_r1.mp3
+0 1 7652496 1815680 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/10-2_memorial_of_guardian_angels_r1p.mp3
+0 1 7601888 1314776 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_3_r1.mp3
+0 1 7672768 1429967 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_2_r2g.mp3
+0 1 7678496 1636018 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r2g_yc.mp3
+0 1 7656656 1770176 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_05-15_st_matthias_r1.mp3
+0 1 7705776 5047902 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_5_r2g.mp3
+0 1 7648128 865888 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ash_4_r1p.mp3
+0 1 7664032 1005824 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_5_r1.mp3
+0 1 7674016 2279360 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_1_r1p.mp3
+0 1 7683824 723008 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r1p.mp3
+0 2 7691008 889472 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_6_r2g.mp3
+0 1 7648752 1351557 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_3_r2g.mp3
+0 2 7646672 1724376 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_6_r2g.mp3
+0 1 7686112 1709993 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_0_r1_yc.mp3
+0 2 7695040 2501196 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_04-25_st_mark_r1
+0 1 7703328 2741523 1 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-2_commeration_of_faithful_departed_r2.mp3
+0 1 7711744 1906163 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-16_vigil_r1p.mp3
+0 1 7715232 870460 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_6_r1p.mp3
+0 1 7653952 955549 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_3_r1p.mp3
+0 1 7697616 1175168 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ascension_of_lord_r1p.mp3
+0 1 7662304 891776 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_10-28_feast_of_sts_simon_and_jude_apostles_r1.mp3
+0 1 7709344 998774 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_2_r1p.mp3
+0 1 7672144 795008 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/artworksforfathersday.zip
+0 1 7662528 3578155 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_04-25_st_mark_r1p.mp3
+0 1 7703744 1123904 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_4_r1.mp3
+0 1 7647088 1071106 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-10_st_lawrence_r1.mp3
+0 1 7631472 1294976 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/05-01_St_Joseph_the_Worker_r1.mp3
+0 1 7372176 2367031 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-25_xmas_day_r2g.mp3
+0 1 7615328 2605852 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3_after_epiphany_r2g.mp3
+0 1 7625200 1482378 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_0_r1.mp3
+0 1 7669616 1442924 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r2_yb.mp3
+0 1 7643328 977024 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-15_solemnity_assumption_r1.mp3
+0 1 7633040 1427456 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/6_after_epiphany_r2g.mp3
+0 1 7629472 1530025 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_weekday_5_r1.mp3
+0 50 7730912 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_5_r1p.mp3
+0 1 7659152 969124 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_5_r1p.mp3
+0 2 7647712 859201 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/5-31_visitation_BVM_r1p.mp3
+0 1 7626096 927746 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/corpus_christi_r1p_yb.mp3
+0 1 7667408 1088000 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/3-25_annunciation_of_lord_r2.mp3
+0 1 7624304 1218932 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-1_solemnity_mother_of_god_r2g.mp3
+0 1 7706000 1128618 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_0_r1p_yb.mp3
+0 2 7676144 1025067 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_day_r1.mp3
+0 1 7720704 1195215 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-26_st_stephen_r1P.mp3
+0 1 7722496 1230600 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_1-baptism_of_the_lord_r2.mp3
+0 1 7707136 1511610 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-baptism_of_the_lord_r1p_v2.mp3
+0 2 7597824 1531531 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r2g_yb.mp.mp3
+0 1 7643536 967808 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-holy_family_r2g_yc.mp3
+0 3 7619792 1968716 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-2_commemoration_of_faithful_departed_r2.mp3
+0 1 7711024 1906163 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_3_r1.mp3
+0 1 7658320 1893440 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_day_r1p.mp3
+0 1 7720480 1210679 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/ascension_of_lord_r2g.mp3
+0 1 7662976 1026560 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_3_r1.mp3
+0 1 7698032 3186944 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-baptism_of_the_lord_r2.mp3
+0 1 7598272 1116416 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_6_r1.mp3
+0 1 7699088 1582522 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-12_our_lady_of_guadalupe_r1.mp3
+0 2 7714128 1063835 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_the_holy_cross_r1p.mp3
+0 1 7636800 1018025 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-30_feast_st._andrew_apostle_r1.mp3
+0 1 7603984 1753088 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w2_2_r1.mp3
+0 1 7677872 1331840 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-16_vigil_r1.mp3
+0 1 7608560 1778293 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-2_commemoration_of_faithful_departed_r1.mp3
+0 1 7710784 2054121 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_1_r1p.mp3
+0 1 7656864 730051 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/10-18_feast_of_st_luke_evangelist_r1p.mp3
+0 2 7600688 813225 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1_after_epiphany_r1p.mp3
+0 1 7620464 673280 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-10_feast_of_saint_lawrence_r1p.mp3
+0 1 7631248 1148470 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r2_ya.mp3
+0 1 7682512 1033472 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r1p.mp3
+0 2 7682080 1192421 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2_after_epiphany_r2g.mp3
+0 1 7623152 2056236 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_1_r1p.mp3
+0 1 7696576 712749 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-23_r2g.mp3
+0 1 7719424 1829702 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-21_r1p.mp3
+0 2 7611264 847080 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w2_5_r1p.mp3
+0 1 7653328 873411 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-1_solemnity_mother_of_god_r1.mp3
+0 1 7357072 649385 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/August_26_R1.wav
+0 1 7666112 3263468 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w3_0_r2g_yb.mp3
+0 1 7683392 2103717 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-2_commemoration_of_faithful_departed_r1.mp3
+0 1 7603264 1456464 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-25_xmas_midnight_r1.mp3
+0 1 7721600 1571378 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_10-18_feast_of_st_luke_evangelist_r1.mp3
+0 1 7708864 1656642 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_11-30_feast_st._andrew_apostle_r1p.mp3
+0 1 7711984 768382 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_5th_day_r1p.mp3
+0 35 7732704 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-24_r1p.mp3
+0 2 7613344 938726 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_weekday_6_r1.mp3
+0 18 7730688 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w5_0_r1p_yb.mp3
+0 1 7691216 1136768 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_2-2_presentation_of_the_lord_r1p.mp3
+0 91 7734736 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_1_r2g.mp3
+0 1 7671728 1311850 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w7_3_r1p.mp3
+0 1 7701440 926912 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/xmas_octave_7th_day_r1.mp3
+0 4 7731808 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w3_0_r2_yc.mp3
+0 1 7656032 1404889 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-21_feast_of_st_matthew_r1.mp3
+0 1 7638480 1395024 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_05-03_sts_philip_and_james_r1.mp3
+0 1 7704640 1757504 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/8-6_feast_transfiguration_lord_r2g.mp3
+0 1 7635840 1805629 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_04-25_st_mark_r1.mp3
+0 3 7703104 2751680 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/2-2_presentation_of_the_lord_r2.mp3
+0 1 7622032 1186700 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/easter_w6_5_r1_y2.mp3
+0 1 7698448 1980001 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_2-2_presentation_of_the_lord_r2.mp3
+0 91 7734976 0 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-21_r1.mp3
+0 1 7610848 1559626 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/9-14_feast_of_exaltation_of_the_holy_cross_r1.mp3
+0 1 7637040 1290368 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/adv_w1_0_r1p_yc.mp3
+0 1 7642912 785216 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/1-sto_nino_r1p.mp3
+0 1 7599824 944768 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/7-3_st_thomas_r2g.mp3
+0 1 7630800 1507915 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/12-18_r1p.mp3
+0 1 7609600 1015517 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/August_26_RP.wav
+0 1 7666528 2728480 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_12-22_r1p.mp3
+0 1 7718384 1471904 0 0
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/11-9_dedication_lateran_basilica_r2.mp3
+0 1 7605664 935269 0 0
+# End Of Table - urls
+# -sites- (monthly)
+112.198.83.215
+0 17 17 28000 0 0
+-
+124.158.52.198
+0 8620 8620 826453969 1 1429360503
+/home/angsalit/public_html/calendar/asnd_lcmam/frontend/web/ALSCalendarForHost/calendar/test/audio/f_04-25_st_mark_r1p
+124.158.52.189
+0 1345 1345 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+124.158.52.189
+0 3 3 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+angsalit
+0 9982 9982 826481969 2 1429360503
+# End Of Table - usernames

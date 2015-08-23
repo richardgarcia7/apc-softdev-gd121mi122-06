@@ -1,0 +1,48 @@
+.iCicon-iclogo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe606;');
+}
+.iCicon-location {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe605;');
+}
+.iCicon-calendar {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe604;');
+}
+.iCicon-calendar-2 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe603;');
+}
+.iCicon-print {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe602;');
+}
+.iCicon-disk {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe607;');
+}
+.iCicon-people {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60b;');
+}
+.iCicon-private {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe608;');
+}
+.iCicon-register {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe609;');
+}
+.iCicon-timezone {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe601;');
+}
+.iCicon-earth {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe600;');
+}
+.iCicon-blocked {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe60a;');
+}
+.iCicon-nextic {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25b6;');
+}
+.iCicon-backic {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25c0;');
+}
+.iCicon-backicY {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25c1;');
+}
+.iCicon-nexticY {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25b7;');
+}
