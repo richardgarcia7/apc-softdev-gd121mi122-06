@@ -30,6 +30,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'city_description',
             'citycol',
             'province_id',
+			'province_name',
 
             ['class' => 'yii\grid\ActionColumn'],
         ],
