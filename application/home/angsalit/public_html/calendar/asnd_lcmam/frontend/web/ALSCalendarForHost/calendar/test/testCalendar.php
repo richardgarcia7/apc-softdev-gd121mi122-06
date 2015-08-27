@@ -63,16 +63,13 @@ $(document).ready(function () {
         header: {
             left: 'title',
             center: '',
-            right: 'prev, today, next'
+            right: 'prev, today, next '
         },
         
         eventClick: function (event, jsEvent, view) {
-            if (!event.url){event.url = ""};
-            if (!event.description){event.description = ""};
             $('#modalTitle').html(event.title);
             $('#modalBody').html(event.description);
             $('#eventUrl').attr('href', event.url);
-            $('#eventDownload').attr('href', event.url);
             $('#fullCalModal').modal();
             return false;
         },
@@ -96,8 +93,6 @@ $(document).ready(function () {
 <style>
 
     body {
-        margin: 40px 10px;
-        padding: 0;
         font-family: "Trebuchet MS",Helvetica,Arial,Verdana,sans-serif;
         font-size: 14px;
     }
@@ -106,7 +101,7 @@ $(document).ready(function () {
     }
 
     .fc-time{
-        display : none;
+    display : none;
     }
 
     .modal {
@@ -145,10 +140,9 @@ $(document).ready(function () {
             <div id="modalBody" class="modal-body"></div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button class="btn btn-success"><a id="eventUrl" target="_self" style="color: white;">Reading Link</a>
-                <button class="btn btn-success"><a id="eventDownload" download="" style="color: white;">Download</a>
-                </button>
+                
 
+                </button>
             </div>
         </div>
     </div>
